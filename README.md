@@ -10,4 +10,4 @@ Set your ToneX Pedal to MIDI channel 2 (or change all messages inside message ma
 
 # Screenshots
 
-![Main screen]([https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-2.jpg](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-2.jpg))
+![Main screen]([https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-2.jpg](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-2.jpg))
