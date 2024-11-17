@@ -8,6 +8,6 @@ Complete template to parameter the ToneX pedal from your computer using MIDI (st
 
 Set your ToneX Pedal to MIDI channel 2 (or change all messages inside message mapping view to the desired MIDI channel).
 
-# Screenshots
+# Screenshot
 
 ![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-2.jpg "Main screen")
