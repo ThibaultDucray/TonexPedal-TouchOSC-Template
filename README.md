@@ -13,6 +13,10 @@ Download the [ToneX-controler-2.tosc file](https://github.com/ThibaultDucray/Ton
 
 Set your ToneX Pedal to MIDI channel 2 (or change all messages inside message mapping view to the desired MIDI channel).
 
+# Limitation
+
+Cannot read the settings from the Tonex Pedal (limitation of the pedal itself).
+
 # Screenshot
 
 ![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-2.jpg "Main screen")
