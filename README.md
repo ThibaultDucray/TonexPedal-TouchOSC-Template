@@ -1,3 +1,18 @@
+# The philosophy: and Amp (+ Cab) and a programable pedalboard
+
+After a lot of reflexion, I've establish a new way of using the Tonex Pedal (incl. Tonex One).
+
+I consider the Tonex Pedal as a standalone Amp (+ Cab) and a Pedalboard (NG, comp, mod, dly, reverb).
+
+But one thing is missing: create, save and load the settings of the pedalboard.
+
+Thus, I updated my previous TouchOSC template with new features, showing the Tonex Pedal parameters in 3 sections:
+- section 1: the amp eq settings
+- section 2: the pedalboard setings
+- section 3: the presets to store and reload the pedalboard settings
+
+See video for details: https://youtu.be/Tja_lkhCq6Q
+
 # What is TonexPedal-TouchOSC-Template?
 
 Bothered by the impossibility of setting up the ToneX Pedal directly from ToneX software? Use this template with [TouchOSC](https://hexler.net/touchosc)!
