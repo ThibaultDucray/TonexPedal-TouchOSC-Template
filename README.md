@@ -1,4 +1,4 @@
-# The philosophy: and Amp (+ Cab) and a programable pedalboard
+# The philosophy: and Amp (+ Cab) and a programmable pedalboard
 
 After a lot of reflexion, I've establish a new way of using the Tonex Pedal (incl. Tonex One).
 
