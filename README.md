@@ -11,7 +11,7 @@ Thus, I updated my previous TouchOSC template with new features, showing the Ton
 - section 2: the pedalboard setings
 - section 3: the presets to store and reload the pedalboard settings
 
-See video for details: https://youtu.be/Tja_lkhCq6Q
+See video for details: https://youtu.be/aIU2B9H2NHg
 
 # What is TonexPedal-TouchOSC-Template?
 
