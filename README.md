@@ -24,8 +24,12 @@ Also, on MIDI channel 5: load presets 1 to 20. To use: send MIDI message to Touc
 # Download
 
 Download and install [TouchOSC from Hexler.net](https://hexler.net/touchosc).
-MIDI channel 2: download the [ToneX-controler-3.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3.tosc) in the files section of this GitHub project.
-MIDI channel 1 (mandatory for Tonex One): download the [ToneX-controler-3-channel1.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3-channel1.tosc) in the files section of this GitHub project.
+
+To use on MIDI channel 2: download the [ToneX-controler-3.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3.tosc) in the files section of this GitHub project.
+
+To use on MIDI channel 1 (mandatory for Tonex One): download the [ToneX-controler-3-channel1.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3-channel1.tosc) in the files section of this GitHub project.
+
+There is also a smartphone version in the files section.
 
 # Configuration
 
