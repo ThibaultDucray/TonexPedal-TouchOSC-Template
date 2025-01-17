@@ -1,6 +1,6 @@
 # The philosophy: an Amp (+ Cab) and a programmable pedalboard
 
-After a lot of reflexion, I've established a new way of using the Tonex Pedal (incl. Tonex One).
+After a lot of reflexion, I've established a new way of using the Tonex Pedal.
 
 I consider the Tonex Pedal as a standalone Amp (+ Cab) and a Pedalboard (NG, comp, mod, dly, reverb).
 
