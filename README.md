@@ -27,15 +27,14 @@ Download and install [TouchOSC from Hexler.net](https://hexler.net/touchosc).
 
 To use on MIDI channel 2: download the [ToneX-controler-3.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3.tosc) in the files section of this GitHub project.
 
-To use on MIDI channel 1 (mandatory for Tonex One): download the [ToneX-controler-3-channel1.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3-channel1.tosc) in the files section of this GitHub project.
+To use on MIDI channel 1: download the [ToneX-controler-3-channel1.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3-channel1.tosc) in the files section of this GitHub project.
 
 There is also a smartphone version in the files section.
 
 # Configuration
 
-Set your ToneX Pedal to MIDI channel 2 (or change all messages inside message mapping view to the desired MIDI channel).
+Set your ToneX Pedal to MIDI channel 1 of channel 2, depending of the file you downloaded (or change all messages inside message mapping view to the desired MIDI channel).
 
-Using Tone One? Chose the "channel1" file in the files section.
 
 # Limitation
 
