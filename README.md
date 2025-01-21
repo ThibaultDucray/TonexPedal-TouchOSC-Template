@@ -43,9 +43,11 @@ There is also a smartphone version in the files section.
 - Doesn't save the Pedalboard presets in the ToneX Pedal: it saves them in the layout.
 - SAVE the file after use to keep the 20 presets saved by TouchOSC.
 
-# Screenshot
+# Screenshots
 
 ![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4.jpg "Main screen")
+
+![Smartphone screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4-smartphone.jpg "Smartphone screen")
 
 # Changelog
 
