@@ -47,7 +47,7 @@ There is also a smartphone version in the files section.
 
 ![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4.jpg "Main screen")
 
-![Smartphone screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4-smartphone.jpg "Smartphone screen")
+![Smartphone screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4-smartphone.png "Smartphone screen")
 
 # Changelog
 
