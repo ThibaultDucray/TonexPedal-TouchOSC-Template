@@ -25,22 +25,24 @@ Also, on MIDI channel 5: load presets 1 to 20. To use: send MIDI message to Touc
 
 Download and install [TouchOSC from Hexler.net](https://hexler.net/touchosc).
 
-To use on MIDI channel 2: download the [ToneX-controler-3.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3.tosc) in the files section of this GitHub project.
-
-To use on MIDI channel 1: download the [ToneX-controler-3-channel1.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-3-channel1.tosc) in the files section of this GitHub project.
+Download the [ToneX-controler-4.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-4.tosc) in the files section of this GitHub project.
 
 There is also a smartphone version in the files section.
 
-# Configuration
+# Configuration and usage
 
-Set your ToneX Pedal to MIDI channel 1 of channel 2, depending of the file you downloaded (or change all messages inside message mapping view to the desired MIDI channel).
+1. Set your ToneX Pedal to the desired MIDI channel.
+2. Open the layout with TouchOSC then run it by toggling Editor mode (Ctr-E on the keyboard or Right arrow icon).
+3. Select the MIDI channel according to your settings in the Tonex Pedal.
+4. Configure your settings live, save the params into the Presets section.
 
 
 # Limitation
 
-Cannot read the settings from the Tonex Pedal (limitation of the pedal itself).
-SAVE the file after use to keep the 20 presets saved in TouchOSC.
+- Cannot read the settings from the Tonex Pedal (limitation of the pedal itself).
+- Doesn't save the Pedalboard presets in the ToneX Pedal: it saves them in the layout.
+- SAVE the file after use to keep the 20 presets saved by TouchOSC.
 
 # Screenshot
 
-![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-3.jpg "Main screen")
+![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4.jpg "Main screen")
