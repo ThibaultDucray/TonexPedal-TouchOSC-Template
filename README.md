@@ -25,7 +25,7 @@ Also, on MIDI channel 5: load presets 1 to 20. To use: send MIDI message to Touc
 
 Download and install [TouchOSC from Hexler.net](https://hexler.net/touchosc).
 
-Download the [ToneX-controler-4.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-4.tosc) in the files section of this GitHub project.
+Download the [ToneX-controler-4.2.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-4.2.tosc) in the files section of this GitHub project.
 
 There is also a smartphone version in the files section.
 
@@ -45,12 +45,13 @@ There is also a smartphone version in the files section.
 
 # Screenshots
 
-![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4.png "Main screen")
+![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4.2.png "Main screen")
 
 ![Smartphone screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4-smartphone.png "Smartphone screen")
 
 # Changelog
 
+- version 4.2 : Added preset naming feature, and a simpler browser for presets.
 - Version 4: Added MIDI channel selector
 - Version 3: Added Presets features, for Pedalboard section (comp, mod, delay, reverb, NG) save and load 20 presets directly into TouchOSC.
 - Version 2: Support for effects (comp, mod, delay, new reverbs) after Nov. 2024 update.
