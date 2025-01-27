@@ -19,7 +19,7 @@ Bothered by the impossibility of setting up the ToneX Pedal directly from ToneX 
 
 Complete template to parameter the ToneX pedal from your computer using MIDI (standard MIDI or MIDI over USB). Switch presets, activate / deactivate effects (Reverb, Compressor, NoiseGate, Equalizer, Modulations, Delays), tune effects parameters, save the pedalboard (noise gate, compressos, modulations, delays, reverbs) in one of the 20 presets.
 
-Also, on MIDI channel 5: load presets 1 to 20. To use: send MIDI message to TouchOSC on channel 5: CC <0> <preset_number>
+Also, on MIDI channel 5: load presets 1 to 20. To use: send MIDI message to TouchOSC on channel 5: PC <preset_number>, then send CC <1> to load the content of the preset. You can force the re-sending of the complete MIDI parameters of the preset with CC 0.
 
 # Download
 
