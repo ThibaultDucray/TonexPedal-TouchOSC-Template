@@ -56,3 +56,7 @@ There is also a smartphone version in the files section.
 - Version 3: Added Presets features, for Pedalboard section (comp, mod, delay, reverb, NG) save and load 20 presets directly into TouchOSC.
 - Version 2: Support for effects (comp, mod, delay, new reverbs) after Nov. 2024 update.
 - Version 1: Initial layout, it does not fit to ToneX Pedal since Nov. 2024 firmware update.
+
+# Wanna say thank you?
+
+Listen to our music! https://walruspark.co/
