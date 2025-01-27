@@ -25,9 +25,9 @@ Complete template to parameter the ToneX pedal from your computer using MIDI (st
 
 Download and install [TouchOSC from Hexler.net](https://hexler.net/touchosc).
 
-Download the [ToneX-controler-4-2.tosc file](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/blob/main/ToneX-controler-4-2.tosc) in the files section of this GitHub project.
+Download the [TouchOSC .tosc file from the release section](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/releases).
 
-There is also a smartphone version in the files section.
+There is also a smartphone version.
 
 # Configuration and usage
 
