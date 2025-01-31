@@ -64,3 +64,7 @@ See the [Wiki section](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Tem
 # Wanna say thank you?
 
 Listen to our music! https://walruspark.co/
+
+# More infos
+
+More infos, apps and projects: https://tducray.fr
