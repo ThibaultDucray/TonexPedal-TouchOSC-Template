@@ -50,7 +50,7 @@ See the [Wiki section](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Tem
 
 # Screenshots
 
-![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4-3.png "Main screen")
+![Main screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4-3-1.png "Main screen")
 
 ![Smartphone screen](https://raw.githubusercontent.com/ThibaultDucray/TonexPedal-TouchOSC-Template/refs/heads/main/ToneX-controler-4-smartphone.png "Smartphone screen")
 
