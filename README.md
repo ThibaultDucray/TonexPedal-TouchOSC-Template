@@ -36,7 +36,7 @@ There is also a smartphone version.
 1. Set your ToneX Pedal to the desired MIDI channel.
 2. Open the layout with TouchOSC then run it by toggling Editor mode (Ctr-E on the keyboard or Right arrow icon).
 3. Select the MIDI channel according to your settings in the Tonex Pedal.
-4. Configure your settings live, save the params into the Presets section.
+4. Configure your settings live, save the params into the Presets manager section.
 
 # Documentation
 
