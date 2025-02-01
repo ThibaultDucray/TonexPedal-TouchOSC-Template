@@ -49,6 +49,7 @@ There is also a [FAQ to help you](https://github.com/ThibaultDucray/TonexPedal-T
 - Cannot read the settings from the Tonex Pedal (limitation of the pedal itself).
 - Doesn't save the Pedalboard presets in the ToneX Pedal: it saves them in the layout.
 - SAVE the file after use to keep the 20 presets saved by TouchOSC.
+- There is a buggy behaviour of the pedal: when receiving a MIX value in a reverb, it turns it ON. I will find a solution later.
 
 # Screenshots
 
