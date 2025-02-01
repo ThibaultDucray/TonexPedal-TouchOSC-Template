@@ -42,6 +42,8 @@ There is also a smartphone version.
 
 See the [Wiki section](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/wiki)
 
+There is also a [FAQ to help you](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Template/wiki/FAQ).
+
 # Limitations
 
 - Cannot read the settings from the Tonex Pedal (limitation of the pedal itself).
