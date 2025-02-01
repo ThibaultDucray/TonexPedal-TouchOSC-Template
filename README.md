@@ -65,7 +65,9 @@ See the [Wiki section](https://github.com/ThibaultDucray/TonexPedal-TouchOSC-Tem
 
 # Wanna say thank you?
 
-Listen to our music! https://walruspark.co/
+Many ways:
+* listen to our music, this will make me happy: https://walruspark.co/
+* buy my Apple Watch metronome, this will make me happy also: https://tducray.fr/apps/metronom137/
 
 # More infos
 
